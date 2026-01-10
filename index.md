@@ -1,18 +1,8 @@
 - [Website](https://ukubona-llc.github.io/)
-- App-grid: Digital Twin 
-- Scroll down: Household
-- App-grid: Energy 
-- Focus on energy/Nvidia headline 
-- Will discuss clinical case in meeting
-
-`ops/s3cret!`
-
-1. Ukubona
-2. Digital Twin
-3. Household
-4. Module: `win`
-5. Passcode `win-2165`
-
+- App-grid: Onboarding
+- Username: ops
+- Password: S3cret!123
+- OS: Mac or Windows? 
   
 The goal is to create a “developer” environment on your machine. Well later be copying and pasting code (mostly Python language) from ChatGPT or other AIs to build simulations for grant submission and for decision-support
 
