@@ -2,7 +2,7 @@
 - App-grid: Onboarding
 - Username: `ops`
 - Password: `S3cret!123`
-- OS: Mac or Windows? 
+- OS: `win`, `win-2165`
   
 The goal is to create a “developer” environment on your machine. We'll later be copying and pasting code (mostly Python) from chatbots onto our local development environment!
 
